@@ -1,0 +1,9 @@
+.avtar.proportioned {
+  height: auto;
+  width: 300px;
+}
+
+.avtar.distorted {
+  height: 400px;
+  width: 200px;
+}
