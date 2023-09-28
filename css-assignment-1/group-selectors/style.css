@@ -8,12 +8,12 @@
 #id2 {
   height: 50px;
   width: 300px;
-  background-color: darkgoldenrod;
+  background-color: rgb(246, 195, 65);
 }
 
 .s1 {
   font: bold;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Helvetica, "Times new roman", sans-serif;
   font-size: large;
   border: 3px solid grey;
 }
