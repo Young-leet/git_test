@@ -1,0 +1,128 @@
+.container{
+
+
+   width : 500px ;
+   
+   height: 320px ;
+
+   border : 2px solid #000;
+
+   padding : 10px ;
+
+ 
+
+   flex-direction: column;
+
+     display : flex ;
+
+
+   justify-content : center ;
+
+
+   align-items: center ;
+
+   margin-left: 450px;
+
+   margin-top: 200px;
+
+
+}
+
+
+
+
+
+
+.e1{
+
+    /**the box widht , hieght **/
+
+    width : 98% ;
+
+    padding : 20px ;
+
+
+    margin-bottom: 5px;
+
+    /* border : 1px solid #333; */
+
+    box-sizing : border-box ;
+
+    /*** text and font ,bold ***/
+
+    font-weight: bold;
+    font-size: xx-large;
+    
+    background-color: aquamarine;
+}
+
+
+.e2{
+
+      /**the box widht , hieght **/
+
+
+    width : 98% ;
+
+    padding : 20px ;
+
+    /* border : 1px solid #333; */
+
+    box-sizing : border-box ;
+
+    margin-bottom: 5px;
+    
+    
+    /*** text and font ,bold ***/
+
+    font-size: x-large;
+
+    font-weight: 470;
+
+    background-color: aquamarine;
+
+}
+
+.e3{
+
+    
+      /**the box widht , hieght **/
+
+
+    width : 98%;
+
+    padding : 20px ;
+
+    /* border : 1px solid #333; */
+
+    box-sizing : border-box ;
+    
+    margin-top: 0px;
+
+    /*** text and font ,bold ***/
+
+    font-size: medium;
+    background-color: aquamarine;
+
+/***container props***/
+
+ display : flex ;
+
+ flex-direction: column;
+
+ justify-content: space-between;
+
+ align-items: center;
+
+
+}
+
+
+.b1{
+
+    width: 40%;
+
+    padding : 11px ;
+
+
+}
